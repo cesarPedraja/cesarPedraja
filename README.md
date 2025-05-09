@@ -44,7 +44,7 @@ I'm a Toronto-based data analyst with a background in industrial engineering and
 
 I'm always open to collaborating on data-driven projects, freelance opportunities, or simply exchanging ideas.
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/cesarpedraja)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/cesarpedraja631ab849/)
 - ✉️ pedrajac.cp@gmail.com
 
 Thanks for visiting my profile!
